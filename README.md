@@ -22,3 +22,6 @@ The final application should be containerized using a Java/Tomcat runtime image.
 
 ## Important
 Do not add credentials, API keys, passwords or personal tokens to this repository.
+
+## Roles
+Students attempt exams; faculty manage examinations and questions; administrators manage users.
